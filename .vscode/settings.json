@@ -1,0 +1,14 @@
+{
+    "liveSassCompile.settings.showOutputWindowOn": "Error",
+    "liveSassCompile.settings.generateMap": false,
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format" :"compressed",
+            "extensionName": ".css",
+            "savePath": "/public/CSS",
+            "savePathSegmentKeys": null,
+            "savePathReplaceSegmentsWith": null
+        }
+    ]
+}
